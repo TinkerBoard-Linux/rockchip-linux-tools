@@ -1,3 +1,25 @@
+v2.28 revision(2023/12/22)
+1.support to usb2 reconnection when failure of swiching usb3
+
+v2.28 revision(2023/12/12)
+1.add usb transfer 4m handshake with device
+
+v2.27 revision(2023/10/20)
+1.add closeIDBcheck function
+2.fix create comm bug release pimage twice
+
+v2.26 revision(2023/10/08)
+1.fix env firmware check condition bug
+
+v2.25 revision(2023/09/18)
+1.support usb3 upgrade
+
+v2.24 revision(2023/09/11)
+1.fix di command for env partition bug,write image at offset 0x2000
+
+v2.23 revision(2023/08/28)
+1.skip fill chunk with 0 on downloading sparse image 
+
 v2.22 revision(2023/07/03)
 1.add grow_align to specify if align on grow partition
 
