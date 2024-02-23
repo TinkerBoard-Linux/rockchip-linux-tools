@@ -1,3 +1,21 @@
+v3.25 revision(2023/12/22)
+1.support to usb2 reconnection when failure of swiching usb3
+
+v3.24 revision(2023/12/12)
+1.add usb transfer 4m handshake with device
+
+v3.23 revision(2023/10/18)
+1.fix load config  bug in non-chinese-english os
+ 
+v3.22 revision(2023/10/08)
+1.fix env firmware check condition bug
+
+v3.21 revision(2023/09/22)
+1.support mousewheel to scroll download item
+
+v3.20 revision(2023/09/15)
+1.support usb3 download
+
 v3.19 revision(2023/09/11)
 1.get transfer max limit after switch storage
 
