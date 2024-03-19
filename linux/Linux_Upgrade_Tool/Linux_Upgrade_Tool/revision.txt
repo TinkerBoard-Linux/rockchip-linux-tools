@@ -1,3 +1,11 @@
+v2.30 revision(2024/03/13)
+1.support to download 4k-2k idblock on spinand
+2.support to download gpt on 4k ufs
+
+v2.29 revision(2024/02/27)
+1.set erase one size as 128k for nor flash
+2.support crc off for downloading 471 and 472
+
 v2.28 revision(2023/12/22)
 1.support to usb2 reconnection when failure of swiching usb3
 
