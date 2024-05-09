@@ -1,3 +1,9 @@
+v2.33 revision(2024/05/08)
+1.support to switch storage in loader mode
+
+v2.32 revision(2024/04/02)
+1.pl support to read rk mcu partition
+
 v2.30 revision(2024/03/13)
 1.support to download 4k-2k idblock on spinand
 2.support to download gpt on 4k ufs
