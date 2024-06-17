@@ -1,3 +1,13 @@
+v2.36 revision(2024/06/14)
+1.add check partition for download gpt
+2.add dhara image support 
+
+v2.35 revision(2024/06/11)
+1.fix "ul" command do not skip download boot at usbplug state
+
+v2.34 revision(2024/06/04)
+1.add partition size check for writing lba
+
 v2.33 revision(2024/05/08)
 1.support to switch storage in loader mode
 
