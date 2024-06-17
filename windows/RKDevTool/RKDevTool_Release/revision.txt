@@ -1,3 +1,15 @@
+v3.31 revision(2024/06/14)
+1.add check partition for download gpt
+2.support dhara image
+
+v3.30 revision(2024/04/12)
+1.support to read and parse env partition
+2.support to switch storage in loader mode
+
+v3.29 revision(2024/03/15)
+1.fix erase gpt on download parameter
+2.increase sparse flag to support 64 partitions
+
 v3.28 revision(2024/03/13)
 1.fix create gpt for 1sector lba bug
 2.add spare idblock support to fill spare area
